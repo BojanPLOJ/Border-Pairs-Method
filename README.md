@@ -15,8 +15,11 @@ BPM have many advantages over the BP:
      
      
 More info:
+
  https://www.researchgate.net/publication/322617800_New_Deep_Learning_Algorithms_beyond_Backpropagation_IBM_Developers_UnConference_2018_Zurich
+ 
  https://www.researchgate.net/publication/249011199_Border_Pairs_Method-constructive_MLP_learning_classification_algorithm
+ 
  https://www.researchgate.net/publication/263656317_Advances_in_Machine_Learning_Research
 
 
