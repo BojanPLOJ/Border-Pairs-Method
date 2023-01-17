@@ -2,7 +2,7 @@
 Border Pairs Method (BPM) is a machine learning (ML) algorithm intendent for Neural Networks (NN) learning. 
 It is supervised classification algorithm for feedforward NN like Multilayer perceptron (MLP).
 The most common algorithm for such NN is famouse Backpropagation (BP) which is far from ideal.
-BP is iterative, nonconstructive, it find local minimum, it uses random values, user have to choose many hiperparameters...
+BP is iterative, nonconstructive, it finds local minimum, it uses random values, user have to choose many hiperparameters...
 
 BPM have many advantages over the BP:
 
