@@ -76,7 +76,7 @@ def plotingData(data):
 
 	# Add the serial numbers to the plot
 	for i, txt in enumerate(serial_numbers):
-	    ax.text(x[i], y[i], txt)
+		ax.text(x[i], y[i], txt)
 
 	# Add a legend to the plot
 	ax.legend()
@@ -178,11 +178,12 @@ print()
 data=loadingData()
 temp=data.max(axis=0)
 numberOfClasses=np.int16(temp[-1])
-
+    
 
 # drawss patterns
 # In case of more than 2 dimensions  it draws first two dimensions
 plotingData(data)
+
 
 
 for positiveClass in range(numberOfClasses+1):
